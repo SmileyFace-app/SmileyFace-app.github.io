@@ -4,14 +4,11 @@
 <svg
    width="32"
    height="32"
-   viewBox="0 0 2.56 2.56"
-   aria-hidden="true"
-   role="img"
-   class="iconify iconify--emojione"
-   preserveAspectRatio="xMidYMid meet"
+   viewBox="0 0 1.92 1.92"
+   fill="none"
    version="1.1"
    id="svg12"
-   sodipodi:docname="Smileyface.svg"
+   sodipodi:docname="logo_32x32.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,43 +25,50 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     width="32px"
-     inkscape:zoom="11.935962"
-     inkscape:cx="16.253402"
-     inkscape:cy="17.384438"
+     inkscape:zoom="5.9679812"
+     inkscape:cx="21.61535"
+     inkscape:cy="23.039617"
      inkscape:window-width="1559"
      inkscape:window-height="752"
-     inkscape:window-x="592"
-     inkscape:window-y="134"
+     inkscape:window-x="1075"
+     inkscape:window-y="216"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg12" />
-  <circle
-     cx="1.2751558"
-     cy="1.2795509"
-     r="1.28"
-     fill="#ffdd67"
-     id="circle2"
-     style="stroke-width:0.0426667"
-     inkscape:transform-center-x="-23.194368"
-     inkscape:transform-center-y="20.667302" />
-  <g
-     fill="#664e27"
-     id="g10"
-     transform="matrix(0.04266667,0,0,0.04266667,-0.09017722,-0.08578208)"
-     inkscape:transform-center-x="-23.197649"
-     inkscape:transform-center-y="20.799569">
-    <circle
-       cx="20.5"
-       cy="24.6"
-       r="5"
-       id="circle4" />
-    <circle
-       cx="43.5"
-       cy="24.6"
-       r="5"
-       id="circle6" />
-    <path
-       d="m 48.1,37 c -4.3,6.1 -9.5,7.6 -16.1,7.6 -6.6,0 -11.8,-1.5 -16.1,-7.6 -0.6,-0.8 -2.2,-0.3 -1.8,0.9 2.3,8 10,12.7 18,12.7 8,0 15.7,-4.7 18,-12.7 0.2,-1.2 -1.4,-1.7 -2,-0.9"
-       id="path8" />
-  </g>
+  <rect
+     width="1.92"
+     height="1.92"
+     fill="#ffffff"
+     fill-opacity="0.01"
+     id="rect2"
+     x="-5.5511151e-17"
+     y="0"
+     style="stroke-width:0.04" />
+  <path
+     d="m 0.96000012,1.76 c 0.44182798,0 0.79999998,-0.358172 0.79999998,-0.8 0,-0.441828 -0.358172,-0.8 -0.79999998,-0.8 -0.44182808,0 -0.80000011,0.358172 -0.80000011,0.8 0,0.441828 0.35817203,0.8 0.80000011,0.8 z"
+     fill="#2f88ff"
+     stroke="#000000"
+     stroke-width="0.16"
+     stroke-linejoin="round"
+     id="path4" />
+  <path
+     d="m 1.2400001,1.24 c 0,0 -0.08,0.16 -0.27999998,0.16 C 0.76000008,1.4 0.68000007,1.24 0.68000007,1.24"
+     stroke="#ffffff"
+     stroke-width="0.16"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path6" />
+  <path
+     d="m 0.84000007,0.84 c 0,0 -0.04,-0.16 -0.16,-0.16 -0.12000002,0 -0.16000002,0.16 -0.16000002,0.16"
+     stroke="#ffffff"
+     stroke-width="0.16"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path8" />
+  <path
+     d="m 1.4000001,0.84 c 0,0 -0.039999,-0.16 -0.16,-0.16 -0.12,0 -0.16,0.16 -0.16,0.16"
+     stroke="#ffffff"
+     stroke-width="0.16"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path10" />
 </svg>
