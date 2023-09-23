@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 2.56 2.56"
+   aria-hidden="true"
+   role="img"
+   class="iconify iconify--emojione"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="Smileyface.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     width="32px"
+     inkscape:zoom="11.935962"
+     inkscape:cx="16.253402"
+     inkscape:cy="17.384438"
+     inkscape:window-width="1559"
+     inkscape:window-height="752"
+     inkscape:window-x="592"
+     inkscape:window-y="134"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <circle
+     cx="1.2751558"
+     cy="1.2795509"
+     r="1.28"
+     fill="#ffdd67"
+     id="circle2"
+     style="stroke-width:0.0426667"
+     inkscape:transform-center-x="-23.194368"
+     inkscape:transform-center-y="20.667302" />
+  <g
+     fill="#664e27"
+     id="g10"
+     transform="matrix(0.04266667,0,0,0.04266667,-0.09017722,-0.08578208)"
+     inkscape:transform-center-x="-23.197649"
+     inkscape:transform-center-y="20.799569">
+    <circle
+       cx="20.5"
+       cy="24.6"
+       r="5"
+       id="circle4" />
+    <circle
+       cx="43.5"
+       cy="24.6"
+       r="5"
+       id="circle6" />
+    <path
+       d="m 48.1,37 c -4.3,6.1 -9.5,7.6 -16.1,7.6 -6.6,0 -11.8,-1.5 -16.1,-7.6 -0.6,-0.8 -2.2,-0.3 -1.8,0.9 2.3,8 10,12.7 18,12.7 8,0 15.7,-4.7 18,-12.7 0.2,-1.2 -1.4,-1.7 -2,-0.9"
+       id="path8" />
+  </g>
+</svg>
