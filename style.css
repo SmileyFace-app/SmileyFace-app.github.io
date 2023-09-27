@@ -13,19 +13,17 @@ body {
     text-align: center;
     border-top: 8px solid #fcc419;
     border-bottom: 8px solid #fcc419;
-    min-width: 360px;
-    min-height: 260px;
-    position: relative;
+    min-width: 180px;
+    display: grid;
+    grid-template-colums: 1fr;
+    grid-template-rows: 1fr auto;
+    justify-items: center;
 }
 
 main {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     display: grid;
-    grid-template-colums: 1;
-    grid-template-rows: 2;
+    grid-template-colums: 1fr;
+    grid-template-rows: auto auto;
     gap: 24px;
     align-content: center;
     justify-content: center;
@@ -42,7 +40,6 @@ h1 {
 a:link, a:visited {
     background-color: #fcc419;
     text-decoration: none;
-    display: inline-block;
     font-weight: 500;
     font-size: 18px;
     padding: 16px 32px;
@@ -50,11 +47,4 @@ a:link, a:visited {
 
 a:hover {
     background-color: #ffd43b;
-}
-
-footer {
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%, 0);
-    bottom: 8px;
 }
