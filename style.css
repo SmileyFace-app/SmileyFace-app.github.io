@@ -13,7 +13,6 @@ body {
     text-align: center;
     border-top: 8px solid #fcc419;
     border-bottom: 8px solid #fcc419;
-    min-width: 180px;
     display: grid;
     grid-template-colums: 1fr;
     grid-template-rows: 1fr auto;
