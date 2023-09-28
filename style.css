@@ -16,33 +16,27 @@ body {
     display: grid;
     grid-template-colums: 1fr;
     grid-template-rows: 1fr auto;
-    justify-items: center;
-}
-
-main {
-    display: grid;
-    grid-template-colums: 1fr;
-    grid-template-rows: auto auto;
-    gap: 24px;
-    align-content: center;
-    justify-content: center;
     align-items: center;
-    justify-items: center;
 }
-
 
 h1 {
     font-weight: 700;
     letter-spacing: -1px;
+    margin-bottom: 32px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a:link, a:visited {
+    display: inline-block;
     background-color: #fcc419;
     color: #343a40;
     text-decoration: none;
     font-weight: 500;
     font-size: 18px;
-    padding: 16px 32px;
+    padding: 16px 16px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a:hover {
